@@ -1,0 +1,622 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 20,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Fall season wallpaper 1",
+      "image": "file:///android_asset/image/garehwall1.webp"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Fall season wallpaper 2",
+      "image": "file:///android_asset/image/garehwall50.webp"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall1.webp"
+    },
+    {
+      "id":2,
+      "name_category": "Fall season wallpaper 1",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall2.webp"
+    },
+    {
+      "id":3,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall3.webp"
+    },
+    {
+      "id":4,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall4.webp"
+    },
+    {
+      "id":5,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall5.webp"
+    },
+    {
+      "id":6,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall6.webp"
+    },
+    {
+      "id":7,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall7.webp"
+    },
+    {
+      "id":8,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall8.webp"
+    },
+    {
+      "id":9,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall9.webp"
+    },
+    {
+      "id":10,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall10.webp"
+    },
+	{
+      "id":11,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall11.webp"
+    },
+    {
+      "id":12,
+      "name_category": "Fall season wallpaper 1",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall12.webp"
+    },
+    {
+      "id":13,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall13.webp"
+    },
+    {
+      "id":14,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall14.webp"
+    },
+    {
+      "id":15,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall15.webp"
+    },
+    {
+      "id":16,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall16.webp"
+    },
+    {
+      "id":17,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall17.webp"
+    },
+    {
+      "id":18,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall18.webp"
+    },
+    {
+      "id":19,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall19.webp"
+    },
+    {
+      "id":20,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall20.webp"
+    },
+	{
+      "id":21,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall21.webp"
+    },
+    {
+      "id":22,
+      "name_category": "Fall season wallpaper 1",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall22.webp"
+    },
+    {
+      "id":23,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall23.webp"
+    },
+    {
+      "id":24,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall24.webp"
+    },
+    {
+      "id":25,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall25.webp"
+    },
+    {
+      "id":26,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall26.webp"
+    },
+    {
+      "id":27,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall27.webp"
+    },
+    {
+      "id":28,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall28.webp"
+    },
+    {
+      "id":29,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall29.webp"
+    },
+    {
+      "id":30,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall30.webp"
+    },
+	{
+      "id":31,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall31.webp"
+    },
+    {
+      "id":32,
+      "name_category": "Fall season wallpaper 1",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall32.webp"
+    },
+    {
+      "id":33,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall33.webp"
+    },
+    {
+      "id":34,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall34.webp"
+    },
+    {
+      "id":35,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall35.webp"
+    },
+    {
+      "id":36,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall36.webp"
+    },
+    {
+      "id":37,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall37.webp"
+    },
+    {
+      "id":38,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall38.webp"
+    },
+    {
+      "id":39,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall39.webp"
+    },
+    {
+      "id":40,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall40.webp"
+    },
+	{
+      "id":41,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall41.webp"
+    },
+    {
+      "id":42,
+      "name_category": "Fall season wallpaper 1",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall42.webp"
+    },
+    {
+      "id":43,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall43.webp"
+    },
+    {
+      "id":44,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall44.webp"
+    },
+    {
+      "id":45,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall45.webp"
+    },
+    {
+      "id":46,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall46.webp"
+    },
+    {
+      "id":47,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall47.webp"
+    },
+    {
+      "id":48,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall48.webp"
+    },
+    {
+      "id":49,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall49.webp"
+    },
+    {
+      "id":50,
+      "name_category": "Fall season wallpaper 1",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall50.webp"
+    },
+	{
+      "id":51,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall51.webp"
+    },
+    {
+      "id":52,
+      "name_category": "Fall season wallpaper 2",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall52.webp"
+    },
+    {
+      "id":53,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall53.webp"
+    },
+    {
+      "id":54,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall54.webp"
+    },
+    {
+      "id":55,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall55.webp"
+    },
+    {
+      "id":56,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall56.webp"
+    },
+    {
+      "id":57,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall57.webp"
+    },
+    {
+      "id":58,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall58.webp"
+    },
+    {
+      "id":59,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall59.webp"
+    },
+    {
+      "id":60,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall60.webp"
+    },
+	{
+      "id":61,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall61.webp"
+    },
+    {
+      "id":62,
+      "name_category": "Fall season wallpaper 2",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall62.webp"
+    },
+    {
+      "id":63,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall63.webp"
+    },
+    {
+      "id":64,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall64.webp"
+    },
+    {
+      "id":65,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall65.webp"
+    },
+    {
+      "id":66,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall66.webp"
+    },
+    {
+      "id":67,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall67.webp"
+    },
+    {
+      "id":68,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall68.webp"
+    },
+    {
+      "id":69,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall69.webp"
+    },
+    {
+      "id":70,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall70.webp"
+    },
+	{
+      "id":71,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall71.webp"
+    },
+    {
+      "id":72,
+      "name_category": "Fall season wallpaper 2",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall72.webp"
+    },
+    {
+      "id":73,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall73.webp"
+    },
+    {
+      "id":74,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall74.webp"
+    },
+    {
+      "id":75,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall75.webp"
+    },
+    {
+      "id":76,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall76.webp"
+    },
+    {
+      "id":77,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall77.webp"
+    },
+    {
+      "id":78,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall78.webp"
+    },
+    {
+      "id":79,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall79.webp"
+    },
+    {
+      "id":80,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall80.webp"
+    },
+	{
+      "id":81,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall81.webp"
+    },
+    {
+      "id":82,
+      "name_category": "Fall season wallpaper 2",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall82.webp"
+    },
+    {
+      "id":83,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall83.webp"
+    },
+    {
+      "id":84,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall84.webp"
+    },
+    {
+      "id":85,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall85.webp"
+    },
+    {
+      "id":86,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall86.webp"
+    },
+    {
+      "id":87,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall87.webp"
+    },
+    {
+      "id":88,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall88.webp"
+    },
+    {
+      "id":89,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall89.webp"
+    },
+    {
+      "id":90,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall90.webp"
+    },
+	{
+      "id":91,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall91.webp"
+    },
+    {
+      "id":92,
+      "name_category": "Fall season wallpaper 2",
+      "title": "Fall season wallpaper",
+      "image": "file:///android_asset/image/garehwall92.webp"
+    },
+    {
+      "id":93,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall93.webp"
+    },
+    {
+      "id":94,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall94.webp"
+    },
+    {
+      "id":95,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall95.webp"
+    },
+    {
+      "id":96,
+      "name_category": "Fall season wallpaper 2",
+      "title":"Fall season wallpaper",
+      "image":"file:///android_asset/image/garehwall96.webp"
+    }
+	
+  ]
+}
