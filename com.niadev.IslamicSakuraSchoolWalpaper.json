@@ -1,0 +1,24 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "688a56d7-7b9b-4dc4-b03e-40cd8905cc5d",
+      "interval_interstitial": 20,
+      "switch_ads_type": "native_banner_linear"
+    },
+
+    "ad_network": [
+      {
+        "name": "max",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  }
+}
