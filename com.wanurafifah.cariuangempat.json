@@ -32,5 +32,15 @@
         "splash_ad": true
       }
     ]
+  },
+  
+  "app_settings": {
+    "template_mode" : 2,
+    "open_image_mode_square": false,
+
+    "offline" : true,
+
+    "online" : false,
+    "online_url_json" : "https://tes.com/json_online.json"
   }
 }
